@@ -4,5 +4,6 @@ The goal was to understand how economic growth correlates with the health and lo
 * Cleaned and prepared the data
 * Performed exploratory data analysis
 * Visualized trends and comparisons using various plots
+
 This analysis helped me draw meaningful conclusions about the connection between wealth and health.\n
 Feel free to explore the notebooks, visuals, and results—and share your thoughts or feedback in the Discussions section!
