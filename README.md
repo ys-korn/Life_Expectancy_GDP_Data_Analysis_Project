@@ -14,7 +14,7 @@ As you go through the analysis, I will try to show you that although some data s
 
 The only country showing a clearer relationship is Zimbabwe, which has both GDP and life expectancy much lower than the others.
 
-We can conclude that as long as a country has an annual GDP at least equal to Chile—and is not facing political, economic, or healthcare crises—its life expectancy is likely to be between 70 and 80 years. If a country is undergoing a crisis like Zimbabwe, this can significantly impact both GDP and life expectancy.
+We can conclude that as long as a country has an annual GDP at least equal to Chile—and is not facing political, economic, or healthcare crises—its life expectancy is likely to be between 70 and 80 years regardless of its GDP. If a country is undergoing a crisis like Zimbabwe, this can significantly impact both GDP and life expectancy.
 
 In all cases, life expectancy tends to grow every year alongside GDP. However, GDP alone does not appear to be a reliable predictor of life expectancy.
 
